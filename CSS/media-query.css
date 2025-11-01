@@ -10,7 +10,7 @@
         width: 70%;
         padding: 0rem 15rem;
         display: grid;
-        grid-template: repeat(6, 10rem) / repeat(4, 1fr);
+        grid-template: repeat(6, auto) / repeat(4, 1fr);
         gap: 2rem;
     }
 
